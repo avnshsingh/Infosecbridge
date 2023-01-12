@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infosecbridge/static/css/main.510e775f.css",
+    "main.js": "/Infosecbridge/static/js/main.f1212ea0.js",
+    "index.html": "/Infosecbridge/index.html",
+    "main.510e775f.css.map": "/Infosecbridge/static/css/main.510e775f.css.map",
+    "main.f1212ea0.js.map": "/Infosecbridge/static/js/main.f1212ea0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510e775f.css",
+    "static/js/main.f1212ea0.js"
+  ]
+}
